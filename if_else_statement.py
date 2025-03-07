@@ -8,3 +8,4 @@ try:
     #code here
 except ValueError:
     print("Invalid input. Please enter an integer.")
+if _name_ ==_main_":
