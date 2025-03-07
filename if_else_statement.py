@@ -7,6 +7,4 @@ else:
 try:
     #code here
 except ValueError:
-    print("Invalid input. Please enter an integer.")
-if _name_ ==_main_":
-main()
+    print("Invalid input. -3, -2, -1, 0, 1, 2, 3.")
